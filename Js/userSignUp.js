@@ -30,4 +30,8 @@ Uses password: ${password}
 
 //Inside the backticks it print the values as it is
 //${} is used to put variable inside the curley braces
+//Known as the interpolation
 
+
+//Assginment 1: Create a userSign up like this which includes ask user's first name,middle and last name
+// His state , country age and password and display it 
