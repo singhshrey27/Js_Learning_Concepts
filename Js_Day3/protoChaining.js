@@ -20,6 +20,12 @@ var shrey=new User("Shrey",2);
 shrey.getCourseCount();
 shrey.getFirstname();
 
+if(shrey.hasOwnProperty("firstName")){
+    shrey.getFirstname();
+    //check whether it is present in object or not
+}
+//There are various properties
+
 var ram=new User("Ram",3);
 ram.getCourseCount();
 ram.getFirstname();

@@ -25,7 +25,7 @@ setInterval(()=>{
 setTimeout(()=>{
     followers.innerHTML="1000 subscribers reached";
 
-},7000)
+},4000)
 
 //here time is 7k milliseconds 
 
